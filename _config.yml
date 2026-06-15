@@ -21,10 +21,10 @@ repository               : "weikai202/weikai202.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Kai Wei"
   pronouns         :
-  bio: "Incoming Ph.D. student at Stevens Institute of Technology. My research focuses on NLP, information retrieval, and interpretability, with a particular interest in real-world AI applications in healthcare. I aim to conduct value-driven research that advances social well-being and makes technology more equitable."
+  bio: "Incoming Ph.D. student at Stevens Institute of Technology"
   location         : "Ann Arbor, MI / Centerville, OH"
   employer         : "University of Michigan"
   uri              :
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/weikai202"
+  github           : "weikai202"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -70,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/KaiWei02"
+  twitter          : "KaiWei02"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
