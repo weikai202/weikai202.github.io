@@ -1,6 +1,6 @@
-# Kai Wei
+# Kai
 
-Personal academic website for Kai Wei.
+Personal academic website for Kai.
 
 ## Local Preview
 
